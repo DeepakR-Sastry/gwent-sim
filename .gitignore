@@ -1,0 +1,7 @@
+CLAUDE.md
+CLAUDE.local.md
+project_context.md
+docs/
+.claude/
+build/
+.venv/

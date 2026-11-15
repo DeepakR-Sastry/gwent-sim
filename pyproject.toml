@@ -1,0 +1,9 @@
+[project]
+name = "gwent-sim"
+version = "0.1.0"
+description = "Fast, standalone simulator of Witcher 3 Gwent, in C++ with Python bindings."
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest"]
